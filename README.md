@@ -6,17 +6,17 @@ OpenCV (Open Source Computer Vision Library) is a library of programming functio
 # IMPLEMENTATION OF OPEN CV
 This repository provides you hands on OPENCV:
 # 1. Import opencv
-# 2. How to read an Image
-# 3. How to show an Image
-# 4. How to change the format of an Image
+# 2. Read an Image
+# 3. Show an Image
+# 4. Change the format of an Image
 # 5. Convert an Image into Grayscale
 # 6. Convert an Image into another Color Space HSV.
-# 7. How to convert an Image into different colours(Using Split function)
-# 8. How to remake the original Image
-# 9. How to amplify the particular color in an Image
-# 10. How to draw different Shapes using OPENCV
-  -> Rectangle
-  -> Circle
-  -> Square
-# 11. How to create blank Image
-# 12. How to add text in an Image
+# 7. Split an Image into different colours(Using Split function)
+# 8. Remake the original Image
+# 9. Amplification of particular color in an Image
+# 10.Draw different Shapes using OPENCV
+  <ul> Rectangle<\ul>
+  <ul> Circle<\ul>
+  <ul> Square<\ul>
+# 11. Create blank Image
+# 12. Add text in an Image
