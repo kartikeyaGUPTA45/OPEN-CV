@@ -15,8 +15,8 @@ This repository provides you hands on OPENCV:
 # 8. Remake the original Image
 # 9. Amplification of particular color in an Image
 # 10.Draw different Shapes using OPENCV
-  <ul> Rectangle<\ul>
-  <ul> Circle<\ul>
-  <ul> Square<\ul>
+    Rectangle
+    Circle
+    Square
 # 11. Create blank Image
 # 12. Add text in an Image
